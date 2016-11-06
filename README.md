@@ -1,7 +1,7 @@
 # iOSOpenDev
-Fix iOSOpenDev installation for Xcode7.3.1 & Xcode8
+修复 iOSOpenDev 在 Xcode7.3.1 & Xcode8 安装失败的问题
 
-Usage :
+使用方法 :
 
 ```
 git clone https://github.com/zhzDeveloper/iOSOpenDev.git
@@ -10,7 +10,5 @@ cd iOSOpenDev
 sh repair.sh
 ```
 
-Then, run iOSOpenDev-1.6-2.pkg.
+然后运行 iOSOpenDev-1.6-2.pkg 就Ok了
 
-
-# iOSOpenDev
